@@ -21,3 +21,13 @@ Python
 Pandas, NumPy for data manipulation
 
 Scikit-learn for ML models & evaluation
+
+*software requirements:
+
+pip install pandas
+
+pip install scikit-learn
+
+*hardware reuirements:
+
+python version:3.13 or 3.10+
